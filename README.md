@@ -2,8 +2,8 @@
 Welcome to my HTML and CSS projects repository! Here you will find a collection of sample websites that I have created throughout my bootcamp journey.
 
 ## Projects
-1.Isekai Movie 
-1.Theater Site
+1. [Isekai Movie] 
+2. [Theater Site]
 
 ### Isekai Site
 This website is about having a chance to live in a fantasy world. It is styled using CSS and includes various web components such as navigation bar, hero image, and responsive layout design.
